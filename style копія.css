@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+img {
+  height: 220px;
+  width: 220px;
+  border-radius: 30%;
+  box-shadow: 0 0 20px rgba(26, 9, 9, 0.4);
+}
+h1 {
+  text-align: center;
+}
