@@ -1,5 +1,5 @@
 # Homework title
-My CV in English and Ukrainian
+
 ## About
 
 Context and progress go here
@@ -8,6 +8,7 @@ Context and progress go here
 
 1. Clone this repository
 2. Run development server
+3. You can also open the link in discription.
 
 ## Copyright
 
